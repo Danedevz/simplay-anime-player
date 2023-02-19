@@ -1,4 +1,6 @@
 # simplay-anime-player
+## Recent updates:
+- Any updates will be shown here
 ## Work in Progress:
 - [] Prevent form default behaviour
 - [] Genre badge
