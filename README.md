@@ -1,4 +1,4 @@
-# simplay-anime-player
+# Simplay - Simple Anime Player
 ## Recent updates:
 - Any updates will be shown here
 ## Work in Progress:
