@@ -8,4 +8,7 @@
 - [] Tidying the layout
 - [v] Null handling
 - [] Loading state
-
+- [] Homepage
+- [] Recommendation
+- [] Genre based page
+- [] Personal watchlist using localStorage
