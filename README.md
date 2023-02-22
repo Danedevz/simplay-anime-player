@@ -12,3 +12,4 @@
 - [] Recommendation
 - [] Genre based page
 - [] Personal watchlist using localStorage
+- [] "Pick up where you left" feature
