@@ -8,6 +8,8 @@
 - [] Tidying the layout
 - [v] Null handling
 - [] Loading state
+- [] Anime Title dropdown
+- [] Basic routing
 - [] Homepage
 - [] Recommendation
 - [] Genre based page
