@@ -1,4 +1,5 @@
-# Simplay - Simple Anime Player
+# Simplay - Simple Anime Player (Discontinued until further notice)
+Currently cannot retrieve data from the API provider due to CORS policy
 ## Recent updates:
 - Any major updates will be shown here
 ## Work in Progress:
